@@ -1,0 +1,9 @@
+8
+insert 1000000000
+insert 999999999
+deleteLast
+insert 1234566890
+insert 5
+deleteFirst
+insert 7
+delete 5
