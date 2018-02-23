@@ -1,0 +1,25 @@
+24
+insert 8
+insert 2
+insert 3
+insert 7
+insert 22
+insert 1
+insert 10
+insert 9
+insert 15
+insert 13
+find 8
+find 2
+find 3
+find 7
+find 22
+find 1
+find 10
+find 9
+find 15
+find 13
+find 4
+find 5
+find 100
+print
